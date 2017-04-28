@@ -11,6 +11,7 @@ namespace test
         static void Main(string[] args)
         {
             string s = "hello";
+            string s2 = "world";
             string s1 = "hello";
         }
     }
